@@ -1,0 +1,12 @@
+Ester Eunice Garcia Sanchez 
+5to bachillerato en computacion
+
+En la Universidad quiero seguir ciencias de la comunicacion.
+
+quiero seguir esa carrera poque me gusta mucho la produccion de contenidos crear nuevas cosas disgitales y me pude dar cuenta que en esa carrera esta lo que me gusta.
+
+¿Que es un HTML?
+Es la base fundamental de todo sitio web y la piedra angular del desarrollo web. Es el lenguaje utilizado para describir la estructura y el contenido de las páginas web, permitiendo a los navegadores interpretar y mostrar el contenido de manera adecuada.
+
+¿Para qué sirve HTML?
+Sirve para describir la estructura elemental de una página. Este lenguaje organiza el contenido de forma tal que define la manera en como este se va a mostrar. Así mismo incluye enlaces para dirigir a los usuarios a otros documentos o websites.El HTML sirve de estructura para una página web y su contenido, por ejemplo, texto e imágenes y otros. Es decir, relata la apariencia de una página web Si quieres tener tu página web,el lenguaje de marcado HTML sirve para construirla. Y es que te ayudará a programar la página web y, a su vez, a distribuir el contenido que quieres colocar en ella. 
